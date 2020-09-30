@@ -1,0 +1,30 @@
+body {
+    margin: 3% 10%;
+
+}
+
+p b {
+    color: black;
+}
+
+body p {
+    width: 55%;
+    color: gray;
+}
+
+ul img {
+    width: 200px;
+    height: 160px;
+}
+
+#menuItem {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+}
