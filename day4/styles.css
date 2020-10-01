@@ -1,0 +1,36 @@
+body {
+    margin: 30px;
+    width: 60%;
+    background-color: tomato;
+}
+
+h1 {
+    font-size: 80px;
+    color: tomato;
+    margin-left: 70px;
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
+    width: 85%;
+    background-color: white;
+}
+
+ul {
+    margin: 30px;
+}
+
+#listItem {
+    margin-bottom: 100px;
+    border: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    background-color: white;
+}
+
+#pic {
+    width: 400px;
+    height: auto;
+}
